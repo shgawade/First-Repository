@@ -1,0 +1,5 @@
+x = input("enteryourage")
+y= input("fathersage")
+xage = int(x)
+yage = int(y)
+print(yage-xage)
